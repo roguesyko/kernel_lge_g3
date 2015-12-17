@@ -1,8 +1,8 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 0
-EXTRAVERSION =
-NAME = Saber-toothed Squirrel
+EXTRAVERSION = -6.0
+NAME = "-Reaper"
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
